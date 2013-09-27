@@ -12,3 +12,5 @@ docker run -d asood\javaAndMaven /usr/bin/sshd -D
 docker ps -a
 ssh root@localhost -p 49154
 ```
+
+For further reference please see http://www.infoq.com/articles/docker-containers
